@@ -1,3 +1,2 @@
 # find-meteriots
-This is my first python demo app
-Changes to test git
+small app to work with the NASA REST API
