@@ -1,2 +1,2 @@
 # find-meteriots
-small app to work with the NASA REST API
+small script working with the NASA REST API to get data about meteriot impacts
